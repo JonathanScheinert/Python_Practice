@@ -1,4 +1,4 @@
 # Python_Practice
-Basic programs written in Python 
+- Basic programs written in Python 
 
-The programs were written with Subline Text Editor.
+- The programs were written with Subline Text Editor.
